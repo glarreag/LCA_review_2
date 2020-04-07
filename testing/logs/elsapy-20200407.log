@@ -1,0 +1,111 @@
+2020-04-07 14:05:06,847 - elsapy.elsclient - INFO - Module loaded.
+2020-04-07 14:05:06,860 - elsapy.elsentity - INFO - Module loaded.
+2020-04-07 14:05:06,862 - elsapy.utils - INFO - Module loaded.
+2020-04-07 14:05:06,862 - elsapy.elsprofile - INFO - Module loaded.
+2020-04-07 14:05:06,862 - elsapy.elsdoc - INFO - Module loaded.
+2020-04-07 14:05:06,868 - elsapy.elssearch - INFO - Module loaded.
+2020-04-07 14:26:53,290 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:26:54,240 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:26:54,264 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:49:55,524 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:49:56,585 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:49:56,604 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:50:19,215 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:50:20,164 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:50:20,174 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:50:21,174 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:50:22,005 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:50:22,024 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:50:23,024 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:50:24,044 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:50:24,054 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:51:40,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:51:41,944 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:51:41,964 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:51:42,954 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:51:43,789 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:51:43,814 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:51:44,785 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:51:45,895 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:51:45,915 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:52:01,265 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:02,704 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:02,724 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:52:03,714 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:04,806 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:04,817 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:52:05,805 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:52:06,994 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:52:07,025 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:52:42,540 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:43,365 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:43,375 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:52:44,375 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:45,345 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:45,385 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:52:46,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:52:47,295 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:52:47,314 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:52:56,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:57,429 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:52:57,445 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:52:58,430 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:59,615 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:52:59,645 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:53:00,625 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:53:01,491 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:53:01,524 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:53:32,585 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:53:33,525 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:53:33,535 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:53:34,534 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:53:35,405 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:53:35,435 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:53:36,415 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:53:37,295 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:53:37,315 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:57:20,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:57:21,205 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:57:21,235 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:57:22,205 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:57:23,115 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:57:23,138 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:57:24,135 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:57:24,975 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:57:25,005 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 14:59:38,965 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:59:39,975 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 14:59:39,995 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 14:59:40,986 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:59:41,976 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 14:59:42,006 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 14:59:42,986 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:59:44,086 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 14:59:44,106 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 15:00:04,116 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 15:00:41,296 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077780375
+2020-04-07 15:00:41,306 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077780375 to file
+2020-04-07 15:00:42,296 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 15:00:43,596 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077448211
+2020-04-07 15:00:43,616 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077448211 to file
+2020-04-07 15:00:44,616 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 15:00:45,906 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077095053
+2020-04-07 15:00:45,931 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077095053 to file
+2020-04-07 15:00:46,926 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85073819689
+2020-04-07 15:00:48,086 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85073819689
+2020-04-07 15:00:48,106 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85073819689 to file
+2020-04-07 15:00:49,096 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85077756822
+2020-04-07 15:00:50,846 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85077756822
+2020-04-07 15:00:50,866 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85077756822 to file
+2020-04-07 15:00:51,866 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85076522326
+2020-04-07 15:00:53,046 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85076522326
+2020-04-07 15:00:53,081 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85076522326 to file
+2020-04-07 15:00:54,066 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85076849725
+2020-04-07 15:00:55,626 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85076849725
+2020-04-07 15:00:55,646 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85076849725 to file
+2020-04-07 15:00:56,636 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85076609568
+2020-04-07 15:00:58,676 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85076609568
+2020-04-07 15:00:58,756 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85076609568 to file
+2020-04-07 15:00:59,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075836467
+2020-04-07 15:01:00,615 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075836467
+2020-04-07 15:01:00,625 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/85075836467 to file
